@@ -30,7 +30,7 @@ export const Container = styled.div`
                 color: var(--red)
             }
 
-            &.deposite {
+            &.deposit {
                 color: var(--green)
             }
         }
